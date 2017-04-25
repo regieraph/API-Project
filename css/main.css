@@ -1,0 +1,73 @@
+#body{
+  background-color: #1DADA6;
+}
+
+.results {
+  position: relative;
+  display: inline;
+  text-align: center;
+  z-index: 1;
+  width: 100%;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.header{
+  position: absolute;
+  margin-left: 355px;
+  margin-top: 7px;
+  font-family: 'Asar', serif;
+  font-size: 26px;
+}
+
+#search{
+  position: relative;
+  display: inline;
+  margin-top: 13px;
+  margin-left: 895px;
+  border-radius: 2px;
+
+}
+
+#button{
+  position: relative;
+  float: right;
+  margin-top: 13px;
+}
+
+#span{
+  text-align: center;
+  font-family: 'Asar', serif;
+  font-weight: bold;
+  font-size: 12px;
+  border-style: ridge;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 3px;
+  padding: 10px -10px 10px -10px;
+
+
+}
+
+#googleMap{
+  position: absolute;
+  height: 500px;
+  width: 500px;
+  margin-left: 800px;
+  z-index: -1;
+}
+
+#img{
+  display: inline;
+  text-align: center;
+  height: 125px;
+  width: 125px;
+  margin-top: 5px;
+  margin-left: 154px;
+  border-style: groove;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 3px;
+}
